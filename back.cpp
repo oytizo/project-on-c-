@@ -10,5 +10,7 @@ int main(){
     int ami=000;
     int d=90;
     c=a+b+d;
+//oytizo
+//ahsan arafat
     cout<<c;
 }
