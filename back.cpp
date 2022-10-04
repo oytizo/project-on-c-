@@ -12,5 +12,7 @@ int main(){
     c=a+b+d;
 //oytizo
 //ahsan arafat
+//this is comment
+//testing purpase
     cout<<c;
 }
