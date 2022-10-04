@@ -10,5 +10,7 @@ int main(){
     int ami=887;
     int d=90;
     c=a+b+d;
+//this is comment
+//testing purpase
     cout<<c;
 }
